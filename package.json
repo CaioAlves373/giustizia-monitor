@@ -1,0 +1,28 @@
+{
+  "name": "giustizia-monitor",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^11.9.1",
+    "next": "^15.3.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioAlves373/giustizia-monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CaioAlves373/giustizia-monitor/issues"
+  },
+  "homepage": "https://github.com/CaioAlves373/giustizia-monitor#readme"
+}
