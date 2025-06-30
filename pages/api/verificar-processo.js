@@ -1,4 +1,5 @@
-import { buscarProcesso } from '../monitor.js';
+import { buscarProcesso } from '../../monitor.js';
+
 
 export default async function handler(req, res) {
   try {
